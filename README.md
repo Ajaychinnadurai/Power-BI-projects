@@ -27,6 +27,14 @@ This repository contains three Power BI projects developed for data visualizatio
   - Top-performing regions and products
   - Monthly and yearly sales trends
   - Sales contributions by channel and customer demographics
+ 
+### 4. Toco Sales Analysis
+- **File**: 'Toco_sales_dashboard.pbix'
+- **Objextive**: Dashboard for Toco sales on U.S and Mexico
+- **Key Insights**:
+  - Urban Tacos leads in sales performance
+  - Large tacos generate more revenue than regular ones
+  - Real-time geographic insights and time-based trends
 
 ## 🛠️ Tools Used
 - Microsoft Power BI
