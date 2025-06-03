@@ -4,13 +4,13 @@ This repository contains three Power BI projects developed for data visualizatio
 
 ## 📊 Projects Overview
 
-### 1. Chocolate Sales Analysis
-- **File**: `Chocolate_sales_analysis.pbix`
-- **Objective**: Analyze chocolate product sales across regions and time periods.
+### 1. Retail Sales Dashboard
+- **File**: `Retail_sales_dashboard.pbix`
+- **Objective**: Monitor retail sales KPIs and business performance.
 - **Key Insights**:
-  - Top-performing regions and products
-  - Monthly and yearly sales trends
-  - Sales contributions by channel and customer demographics
+  - Sales by category and region
+  - Profit trends and discount analysis
+  - Customer segment performance
 
 ### 2. Hospital Data Analysis
 - **File**: `Hospital_data_analysis.pbix`
@@ -20,13 +20,13 @@ This repository contains three Power BI projects developed for data visualizatio
   - Department-wise performance
   - Bed occupancy and treatment outcomes
 
-### 3. Retail Sales Dashboard
-- **File**: `Retail_sales_dashboard.pbix`
-- **Objective**: Monitor retail sales KPIs and business performance.
+### 3. Chocolate Sales Analysis
+- **File**: `Chocolate_sales_analysis.pbix`
+- **Objective**: Analyze chocolate product sales across regions and time periods.
 - **Key Insights**:
-  - Sales by category and region
-  - Profit trends and discount analysis
-  - Customer segment performance
+  - Top-performing regions and products
+  - Monthly and yearly sales trends
+  - Sales contributions by channel and customer demographics
 
 ## 🛠️ Tools Used
 - Microsoft Power BI
