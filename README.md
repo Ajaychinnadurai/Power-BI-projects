@@ -35,6 +35,17 @@ This repository contains three Power BI projects developed for data visualizatio
   - Urban Tacos leads in sales performance
   - Large tacos generate more revenue than regular ones
   - Real-time geographic insights and time-based trends
+ 
+### 5. Zomato Sales Analysis Dashboard 📊
+I created this interactive Power BI dashboard to explore Zomato’s restaurant data across cities worldwide, uncovering key insights on ratings, costs, and service features
+📌 Key Highlights:
+📍 7439 Restaurants across 147 Cities
+⭐ Average Rating: 2.67 from 1.5M+ votes
+💰 Avg. Cost for Two: $1.2K
+🛵 Online Delivery available in 2450+ locations
+🍽️ Table Booking in 1158+ places
+🌍 Global distribution mapped with Price Range & Ratings
+🧾 Top rated brands: Domino’s, Cafe Coffee Day, Subway, McDonald’s
 
 ## 🛠️ Tools Used
 - Microsoft Power BI
