@@ -47,6 +47,15 @@ I created this interactive Power BI dashboard to explore Zomato’s restaurant d
 🌍 Global distribution mapped with Price Range & Ratings
 🧾 Top rated brands: Domino’s, Cafe Coffee Day, Subway, McDonald’s
 
+### 6. Employee Performance Dashboard – HR Analytics 📊
+This Power BI dashboard delivers a detailed overview of employee performance, recruitment channels, department-wise distribution, and training metrics.
+📌 Key Metrics:
+🧑‍💼 Total Employees: 17.4K
+🎯 Avg. KPIs Met > 80%: 0.359
+🏆 Avg. Awards Won: by gender and department
+📚 Avg. No. of Trainings: 1.25
+⏳ Avg. Length of Service: 5.80 years
+
 ## 🛠️ Tools Used
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
