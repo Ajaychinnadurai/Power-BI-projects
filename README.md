@@ -56,6 +56,35 @@ This Power BI dashboard delivers a detailed overview of employee performance, re
 📚 Avg. No. of Trainings: 1.25
 ⏳ Avg. Length of Service: 5.80 years
 
+7. 🤖 Data Science, Machine Learning & AI Salary Analytics Dashboard 💼📊
+
+This Power BI dashboard offers a comprehensive view of global salary distribution in the Data Science & AI industry, broken down by job role, experience level, and location.
+
+📌 Dashboard Highlights:
+
+👥 Total Employees: 925
+
+💸 Total Salaries Analyzed: $352M
+
+🔝 Senior Roles Dominate with 80%+ share
+
+🌍 Salary hotspots: Lima, La Paz, San Francisco, and Berkeley
+
+💼 Experience-wise salary comparison across Remote, In-person, and Hybrid work settings
+
+📊 Job Roles:
+
+Senior Data Scientist earns the largest share
+
+Machine Learning Engineers & Data Scientists also featured
+
+This dashboard supports HR teams, job seekers, and analysts in understanding the evolving compensation landscape across the AI industry.
+
+🔧 Built with: Power BI, DAX, Interactive Geo Charts
+
+#PowerBI #DataAnalytics #AICareers #MLJobs #SalaryAnalysis #DashboardDesign #AjayProjects #BusinessIntelligence #HRAnalytics
+
+
 ## 🛠️ Tools Used
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
